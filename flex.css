@@ -1,0 +1,11 @@
+.contenedor{
+    display: flex;
+    justify-content: space-around;
+}
+
+.item{
+    width: 33%;
+    height: 400px;
+    background-color: rgb(240, 240, 54);
+    text-align: center;
+}
