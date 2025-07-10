@@ -1,0 +1,18 @@
+.Titulo {
+    background-color: rgb(113, 113, 114);
+}
+table {
+    width: auto;
+    border-collapse: collapse;
+}
+td {
+        padding: 10px;
+        border: 1px solid #ddd;
+        text-align: left;
+}   
+body{
+    background-color: rgb(138, 138, 202);
+}
+.img{
+    text-align: center;
+}
