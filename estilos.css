@@ -1,0 +1,57 @@
+/* Fondos */
+
+body {
+  margin: 0;                                /* Elimina márgenes del body */
+  min-height: 100vh;                        /* Altura mínima = alto del viewport */
+  background: url('img/fondo.jpg') 
+     no-repeat center center fixed;         /* fondo sin repetir, centrado y fijo */
+  background-size: cover;                   /* cubre por completo */
+  color: white;
+}
+.productos {
+    background-color: rgb(225, 236, 60);
+}
+.contactos{
+    background-color: rgb(236, 154, 60);
+}
+
+/* Imagen centrada */
+
+.imagen{
+    text-align: center;
+    border: 1px double black;
+    width: 200px;
+    height: 200px;
+    margin: auto;
+    padding: auto;
+}
+
+/* Titulos */
+
+h1 {
+    color: rgb(233, 51, 51);
+}
+.secundaria {
+    color: rgb(37, 136, 29);
+}
+
+/* Comentarios */
+#parrafo1 {
+    color: rgb(255, 0, 0);
+    font-size: 20px;
+}
+
+.contenedor{
+    width: auto;
+    height: auto;
+    margin: 70px;
+    padding: 40px;
+    border: 1px double red;
+}
+.contenedor2{
+    width: auto;
+    height: auto;
+    margin: 70px;
+    padding: 40px;
+    
+}
